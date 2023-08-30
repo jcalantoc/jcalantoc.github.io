@@ -11,7 +11,7 @@ labels:
 
 ## Impressions on a new language 
 
-As a student who has experience with a bit of C and C++ and is more familiarized with coding in Java, Javascript feels very comfortable where I feel like I am still programming in Java but with less restrictions in what I am allowed to do with functions with the idea of objects, though that is the learning curve so far that is very intriguing to learn to get the hang of.
+As a student who has experience with a bit of C and C++ and is more familiarized with coding in Java, Javascript feels very comfortable where I feel like I am still programming in Java but with less restrictions in what I am allowed to do with functions with the idea of objects, though that is the learning curve so far that is very intriguing to learn to get the hang of. 
 
 	Javascript has “first class” functions, and one is able to treat any functions as objects themselves, and flexibility is increased where they can be passed through as data to other functions or assign them to variables, assigning their references.  
 
