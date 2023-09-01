@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/download.png
+image: img/CCDC.png
 title: "CCDC-Cybersecurity Training"
 date: Summer 2023
 published: true
