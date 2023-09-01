@@ -51,33 +51,10 @@
         "",
         ""
       ]
-    },
-    {
-      "company": "UH",
-      "position": "",
-      "website": "",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "",
-        ""
-      ]
     }
+    
   ],
   "volunteer": [
-    {
-      "organization": "",
-      "website": "",
-      "position": "r",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
-      "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
-      ]
-    },
     {
       "organization": "",
       "website": "",
