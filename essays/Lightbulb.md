@@ -9,7 +9,7 @@ labels:
   - Learning
 ---
 
-<img width="100px" class="" src="../img/softwareeng.jpg">
+<img class="" src="../img/softwareeng.jpg">
 
 
 ## Thrown in the Ocean
