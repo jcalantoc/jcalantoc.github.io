@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Lightbulb Moment"
+title: "Lightbulb Moment- Software Engineering"
 # All dates must be YYYY-MM-DD format!
 date: 2015-08-26
 published: true
@@ -9,7 +9,7 @@ labels:
   - Learning
 ---
 
-<img width="100px" class="rounded float-start pe-4" src="../img/igniting/paintbrushes.jpg">
+<img width="100px" class="" src="../img/softwareeng.jpg">
 
 
 ## Thrown in the Ocean
