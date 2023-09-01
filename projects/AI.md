@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/AI.png
+image: img/Al.png
 title: "Usage Generative AI Analysis"
 date: Fall 2023
 published: true
@@ -11,7 +11,7 @@ labels:
 summary: "Analysis on peers' usage of AI"
 ---
 
-<img class="" src="../img/GenAi.png">
+<img class="" src="../img/GenAl.png">
 
 
 Being in ICS 314, we are encouraged to use generative AI such as ChatGPT if we feel we would need their assistance throughout the class, but we have to report on several factors such as how we prompted the AI, how we determine if the answer(s) given back are correct, and if we feel that any code given is that effective or not.
