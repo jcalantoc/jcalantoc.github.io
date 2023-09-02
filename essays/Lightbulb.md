@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "Lightbulb Moment- Software Engineering"
 # All dates must be YYYY-MM-DD format!
-date: 2015-08-26
+date: 2023-08
 published: true
 labels:
   - Learning
