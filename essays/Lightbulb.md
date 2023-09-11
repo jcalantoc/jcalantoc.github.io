@@ -24,7 +24,7 @@ Currently I am always thrilled to think of new ways to consider how my coding sk
 
 ## Creativity
 
-I see software engineering as just creating a product or solution based on requirements given from a certain company. With our coding knowledge, I am interested in how we are able to bring different people's creative ideas to life. We are able to create applications that complete specific tasks, and we combine all of that with our problem solving skills.  Ultimately I just want to keep facilitating my problem solving skills to know how to approach a wider array of problems, so I am continuing to open my mind thorughout each lesson and struggle.
+I see software engineering as just creating a product or solution based on requirements given from a certain company. With our coding knowledge, I am interested in how we are able to bring different people's creative ideas to life. We are able to create applications that complete specific tasks, and we combine all of that with our problem solving skills.  Ultimately, I just want to keep facilitating my problem solving skills to know how to approach a wider array of problems, so I am continuing to open my mind thorughout each lesson and struggle.
 
 
 

@@ -29,7 +29,7 @@ I personally would have put more thought into why we would implement the WOD as 
 
 ## Discussion
 
-This WOD opened my eyes to what it means to know code and what it means to think like a Software Engineer.  Therefore I absolutely think it is extremely valuable to discuss every WOD after completion.  Besides the general cases of why one implementation is more effective than others, it is good to think about how we can expand my way of thinking so that ultimately I can accommodate any type of specifications or instructions I am given for a program in the future.  I hope to incorporate this perspective into the next WOD period, starting all the way from my preparation.  
+This WOD opened my eyes to what it means to know code and what it means to think like a Software Engineer.  Therefore I absolutely think it is extremely valuable to discuss every WOD after completion.  Besides the general cases of why one implementation is more effective than others, it is good to think about how we can expand my way of thinking so that ultimately I can accommodate any type of specifications or instructions I am given for a program in the future.  I hope to incorporate this perspective into the next WOD period, starting all the way from my preparation. Very importantly, I should not stop practicing as much as I did for this first WOD, since any lack of practice can penalize my completion of the next WODs.
 
 
 
