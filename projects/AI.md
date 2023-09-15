@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: img/AI.png
-title: "Usage Generative AI Analysis"
+title: "Utilization of Generative AI"
 date: Fall 2023
 published: true
 labels:
