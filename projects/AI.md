@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/cogpt.jpg
+image: img/AI.png
 title: "Usage Generative AI Analysis"
 date: Fall 2023
 published: true
