@@ -38,7 +38,10 @@ Regarding practical applications outside of college courses, any software projec
 ## Challenges and opportunities 
 I believe the only challenging parts of working with AI include working with prompt answers that are generated when you are not so sure how to verify the answer with your own knowledge and resources.  At the beginning of the semester, I can say that AI prompts I gave for learning javascript implementation was very smooth and straightforward, but if I were to try to ask for a generation of a whole website, that would not be so easy as that would either require more intense detail and description of what I wanted the AI to give me.  Overall, if I got to the point where I was not able to get full, correct answers generated, I would have to work harder to prompt or work on my own and piece together a solution with only parts of the problem put into ChatGPT.
 
-##Comparative Analysis
+## Comparative Analysis
+Between traditional teaching and AI-enhanced methods in software engineering education, AI is very insightful and and easy resource to have because while following along with an instructor or resource video etc, one is able to quickly ask AI similar questions and from there a different answer or approach of explaining can be created for students or learners to think about.  Because different approaches may work for different people, this gives a good way of having options when learning, and a fast way to asnwer certain questions.  
+
+I personally believe that 
 
 
 
