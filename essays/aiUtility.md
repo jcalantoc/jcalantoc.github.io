@@ -41,7 +41,14 @@ I believe the only challenging parts of working with AI include working with pro
 ## Comparative Analysis
 Between traditional teaching and AI-enhanced methods in software engineering education, AI is very insightful and and easy resource to have because while following along with an instructor or resource video etc, one is able to quickly ask AI similar questions and from there a different answer or approach of explaining can be created for students or learners to think about.  Because different approaches may work for different people, this gives a good way of having options when learning, and a fast way to asnwer certain questions.  
 
-I personally believe that 
+I personally believe that all types of traditional teaching methods cannot be hurt to use some sort of AI integration, so long that students are educated how to properly utilize it as a legitimate resource instead of just asking questions with the hope that they will obtain good scores on assignments and so forth.  Different types of guidelines must be made with all types of educational purposes that AI can help with.
 
+## Future Considerations
+The reason that AI in many people's eyes is not going to take over just yet has to do with the fact that models like GPT etc are not supplied with all the up to date information as of right now.  As we are able to feed more information into the models and advance their understanding of how to spit out answers to our prompts, we will need to keep track of how it can be used, what people are trying to use it for, and what we believe is beneficial for learning in general.  
+
+For software engineering, it might be beneficial in the future to be able to make sure that those utilizing AI have a way to appropriately feed information, whether it be text, images, audio, or other appropriate documents, for the models to proficiently generate answers.  
+
+## Conclusion
+Collectively, AI is a gamechanging tool for convenience in more basic questions as well as giving a basic layout of what one's approach is for solving a problem or learning a specific concept in school. Specifically in software engineering, it is an extra resource (if properly used) to supplement quick and optimal learning in a subject. I will continue to utilize specifically ChatGPT in my future computer science endeavors going forth into more advance classes. As one who needs a structured outline at all times when completing tasks and a guide to help me better formulate my thinking processes, I am very much in favor of asking AI for its input on anything I do.
 
 
