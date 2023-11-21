@@ -27,3 +27,11 @@ Other portions of the class that I felt had a solid way for me to verify that I 
 
 An example I will take is the Experience WODs where professors will step us through a problem that we might have trouble doing the first time.  Because they are able to give a thorough explanation of a solution as well as show why it works, I do not need ChatGPT or other AI tools to supplement myself in these cases. On top of that, for Essay writing, unless I need specific understanding in a specific concept to write about, I am able to write essays on my own using the knowledge accumulated beforehand.
 
+## Impact on Learning and Understanding
+AI has given me a more structured and integrated way to implement different learning methods, especially in the field of computer science as it pertains to software engineering. In general, I go through classes just through notes, asking the professors and LA's and going over the material as much as possible in order to grasp each newly learned topic. However, since I started applying what I learn to ChatGPT AI prompts, I have a better way of correlating my own current knowledge and building off of that to keep a solid foundation of knowledge in everything I learn.  
+
+Essentially, I always use AI to see where I might need to polish any details I missed when it comes to understanding concepts and why exactly we can and should apply them in different practical scenarios.  On top of that, often when starting a new course in college or on my own using the internet's resources, I ask for a specific learning outline for a couple of months given the concepts covered, that I may take from the syllabus or the overview of the course I am learning.
+
+## Practical Applications
+
+
