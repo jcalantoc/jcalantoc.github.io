@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "A Chef's Foundational Techniques"
 # All dates must be YYYY-MM-DD format!
-date: 2023-011-29
+date: 2023-11-29
 published: true
 labels:
   - Learning
