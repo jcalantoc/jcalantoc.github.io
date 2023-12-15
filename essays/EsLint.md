@@ -4,7 +4,7 @@ type: essay
 title: "Learning with Inspections"
 # All dates must be YYYY-MM-DD format!
 date: 2023-10-20
-published: true
+published: false
 labels:
   - Learning
   - Intellij Idea
