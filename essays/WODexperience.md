@@ -10,18 +10,6 @@ labels:
   - Javascript
 ---
 
----
-layout: essay
-type: essay
-title: "Constant Work in Progress"
-# All dates must be YYYY-MM-DD format!
-date: 2023-12-11
-published: true
-labels:
-  - Software Engineering
-  - Web Development
----
-
 <img class="" src="../img/WODofday.jpg">
 
 ## A Plethora of Skills
