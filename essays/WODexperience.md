@@ -10,6 +10,24 @@ labels:
   - Javascript
 ---
 
+---
+layout: essay
+type: essay
+title: "Constant Work in Progress"
+# All dates must be YYYY-MM-DD format!
+date: 2023-12-11
+published: true
+labels:
+  - Software Engineering
+  - Web Development
+---
+
+<img class="" src="../img/WODofday.jpg">
+
+## A Plethora of Skills
+In the Software Engineering class, it felt like a very brief but adequately balanced tour of all the aspects that a software engineer would need to develop oneself individually in the work field.  Everything from the big three of web development coding (HTML, CSS, JS) to frameworks, open source development, and ethics played a major role in solidifying what it meant to be a software engineer.  From foundational web development languages to advanced concepts, the course went beyond the creation of websites, emphasizing the cultivation of a mindset essential for problem-solving and continuous learning.
+
+
 ## A Real WOD
 
 Last week we had our first WOD in class, and I did all that I could in order to prepare. In preparing, I made sure to correlate what seemed to be emphasized in the practice WODs as well as what I should gain from all the practice WODs together so that I would be able to pass the actual WOD. I relearned that one is only prepared after they experience being stumped and frustrated in the first attempts of attempting a task.  Only through asking why they were stuck and trying to adopt a new mindset that works for the job does one breakthrough and succeed.
