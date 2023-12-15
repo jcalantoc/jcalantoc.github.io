@@ -14,8 +14,6 @@ labels:
 summary: "I experienced full stack development with a team to create an app that keeps track of borrowed plastic containers"
 ---
 
-# Zero Waste
-
 <img class="" src="../img/listorder.png">
 
 ## Purpose
