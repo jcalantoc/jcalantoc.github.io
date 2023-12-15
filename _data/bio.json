@@ -1,0 +1,63 @@
+{
+  "basics": {
+    "name": "Jordan Calantoc",
+    "label": "Student",
+    "picture": "https://github.com/jcalantoc.png",
+    "email": "jordanc7@hawaii.edu",
+    "phone": "808-490-1449",
+    "website": "https://jcalantoc.github.io",
+    "summary": " I am a junior studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring 2025.",
+    "location": { "address": "", "postalCode": "96819", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "profiles": [
+      { "network": "github", "username": "jordanc7", "url": "http://github.com/jcalantoc" },
+      { "network": "linkedin", "username": "Jordan Calantoc", "url": "https://www.linkedin.com/in/jordan-calantoc/" }
+    ]
+  },
+  "interests": [
+    { "name": "Software Engineering"},
+    { "name": "Cyber Security" },
+    { "name": "Database Management Systems" }
+  ],
+  "skills": [
+    {
+      "name": "Technologies, Languages, and Frameworks",
+      "keywords": [ "Java", "C", "C++", "Javascript, React, Meteor, MongoDB"]
+    },
+    {
+      "name": "Toolsets/OS",
+      "keywords": [ "Windows", "Ubuntu", "Git/GitHub"]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Computer Science (expected graduation Spring 2025)",
+      "studyType": "B.S.",
+      "startDate": "2021-08",
+      "endDate": "Present",
+      "courses": [
+      ]
+    }
+  ],
+  "work": [
+    {
+      "company": "UH Manoa",
+      "position": "Learning Assistant",
+      "website": "",
+      "startDate": "2023-01",
+      "endDate": "Present",
+      "summary": "Learning assistant for introductory Java courses, assisting with assignments in lab and tutoring after class hours.",
+      "highlights": [
+        "ICS 111"
+        
+      ]
+    }
+    
+  ],
+
+  "references": [
+    {
+      "name": "Available upon request"
+    }
+  ]
+}
