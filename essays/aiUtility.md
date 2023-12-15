@@ -10,7 +10,7 @@ labels:
   - AI
   - Software Engineering
 ---
-<img class="" src="../img/Chatbot.webp">
+<img class="" src="../img/chatbot2.jpg">
 
 ## Introduction
 Generative AI that includes ChatGPT and other well known applications of it give plenty of insight on how one should provide quality testing and assurance that written software is of the right quality to deliver to users and companies demanding different products for their problems.  Because of the fundamental idea of AI being able to generate ideas, outlines, tutorials, or just brief overviews of concepts taught in classes such as in Software Engineering based on data fed to the AI models, one can utilize the power of AI to properly provide solutions and verify that those solutions are working and relevant to a given problem.
