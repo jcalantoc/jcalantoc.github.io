@@ -4,7 +4,7 @@ type: project
 image: img/Recurse3.jpg
 title: "Recursion Project for ICS 212"
 date: 2022
-published: true
+published: false
 labels:
   - C
   - Recursion
