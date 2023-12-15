@@ -27,4 +27,8 @@ I was in charge of the checkout page, which had to take people's names, type of 
 ## Issues 
 On top of actually figuring out the logistics of how a basic "borrow and return" system worked on a website, it was mostly hard to get communication and documentation of everyone's theoretical and working ideas throughout development.  Ultimately we got the basic things to work out, but it could have been improved to have the whole website feel more cohesive with each page responding well with the databases and each other.
 
+Link to App:
+[Zero Waste](https://n0-waste.xyz/)
+Link to Project Page:
+[5tack](https://5stack.github.io/)
 
